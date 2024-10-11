@@ -1,0 +1,31 @@
+# ASP.NET Core
+.vscode/
+bin/
+obj/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio files
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+.vs/
+
+# Visual Studio Code files
+.vscode/
+
+# Packages
+*.nupkg
+*.pfx
+*.snk
+
+# Others
+*.log
+*.sqlite
+Material del Curso/
